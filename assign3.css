@@ -17,6 +17,13 @@
 body{
     background-color: aliceblue;
 }
+h1{
+    font-family: 'New Tegomin', serif;
+    text-align: center;
+    font-style: inherit;
+    font-weight: 750;
+    margin-bottom: 70px;
+}
 #p1{
     font-family: 'New Tegomin', serif;
     text-align: center;
