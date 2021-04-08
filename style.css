@@ -1,0 +1,55 @@
+#p{
+    color: black;
+    margin:5px;
+}
+@media (min-width:1200px)
+{
+    #p{
+    display:none;
+    }
+}
+@media (min-width:600px)
+{
+    #p{
+    display:none;
+    }
+}
+body{
+    background-color: aliceblue;
+}
+#p1{
+    font-family: 'New Tegomin', serif;
+    text-align: center;
+    font-style: inherit;
+    font-weight: 900;
+    font-size: larger;
+    
+}
+#p2{
+    font-family: 'New Tegomin', serif;
+    text-align: center;
+    font-style: inherit;
+    font-weight: 900;
+    font-size: larger;
+    
+}
+#p3{
+    font-family: 'New Tegomin', serif;
+    text-align: center;
+    font-style: inherit;
+    font-weight: 900;
+    font-size: larger;
+    
+}
+#col3{
+    margin-bottom: 30px;
+}
+#food{
+    font-family: 'New Tegomin', serif;
+}
+.col{
+    background-color: burlywood;
+    border: 2px solid burlywood;
+    border-radius: 5px;
+    margin: 10px;
+}
